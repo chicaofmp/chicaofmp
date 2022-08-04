@@ -1,6 +1,6 @@
 ## I'm Francisco Moura 👋
 
-<div align="center">
+<div align="center" width="90%">
   <a href="https://github.com/chicaofmp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chicaofmp&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chicaofmp&layout=compact&langs_count=7&theme=gotham"/>
